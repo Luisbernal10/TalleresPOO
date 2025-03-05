@@ -1,4 +1,4 @@
-package tallerTres;
+package Taller 3;
 
 class producto {
     String nombre;
