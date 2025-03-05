@@ -1,4 +1,4 @@
-package tallerTres;
+package Taller 3;
 
 public class PruebaPersona {
     public static void main(String[] args) {
